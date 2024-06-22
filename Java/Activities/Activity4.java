@@ -21,7 +21,7 @@ public class Activity4 {
 			}
 			
 		}
-		
+				
 		System.out.println("Array after sort");
 		System.out.println(Arrays.toString(array));
 	}
